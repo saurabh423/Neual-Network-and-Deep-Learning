@@ -1,4 +1,4 @@
-# Neual-Network-and-Deep-Learning
+# Neural-Network-and-Deep-Learning
 This is my assignment on Andrew Ng's special course **"Deep Learning Specialization"** This special course consists of five courses:
 
 * **Neural Networks and Deep Learning**
